@@ -1,0 +1,10 @@
+# Dossiers
+/target/
+/bin/
+
+# Fichiers
+*.class
+*.log
+# Dependency directories
+node_modules/
+**.env
